@@ -22,5 +22,5 @@ In progress
 
 ## ScreenShots
 ![screenshot](https://github.com/dilipcm/smart-cash-diary/blob/master/public/Screenshot%202023-01-08%20at%202.46.33%20AM.png)
-! [screenshot] (https://github.com/dilipcm/smart-cash-diary/blob/master/public/Screenshot%202023-01-08%20at%203.08.44%20AM.png)
+![screenshot](https://github.com/dilipcm/smart-cash-diary/blob/master/public/Screenshot%202023-01-08%20at%203.08.44%20AM.png)
 
