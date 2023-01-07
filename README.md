@@ -21,6 +21,5 @@ In progress
 
 # ScreenShots
 
-
-
+# Concepts:
 
