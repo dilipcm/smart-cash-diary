@@ -3,15 +3,24 @@ A Budget Tracker Applciation which can track daily expenses
 
 # Features:
 
-Add New transaction\n
-Display Income,Expense,Balance\n
-View Transaction History \n
-Delete Transaction
+1.Add New transaction
+2.Display Income,Expense,Balance
+3.View Transaction History 
+4.Delete Transaction
 
 # Concepts:
-props, Functional Components, Material UI,State Management using Hooks(useState,useEffect,\n useLayoutEffect,LocalStorage),React-router-dom
+1.props
+2.Functional Components
+3.Material UI
+4.State Management using Hooks(useState,useEffect,useLayoutEffect)
+5.LocalStorage
+6.React-router-dom
 
 **Status:**
 In progress
+
+# ScreenShots
+
+
 
 
