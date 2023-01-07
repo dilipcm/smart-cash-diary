@@ -1,7 +1,7 @@
-# Smart-Cash-Diary
-A Budget Tracker Applciation which can track daily expenses 
+## Smart-Cash-Diary
+A **Budget Tracker** Applciation which can track daily expenses 
 
-# Features:
+## Features:
 
 1.Add New transactionz
 2.Display Income,Expense,Balance
@@ -19,7 +19,6 @@ A Budget Tracker Applciation which can track daily expenses
 **Status:**
 In progress
 
-# ScreenShots
+## ScreenShots
 
-# Concepts:
 
