@@ -1,6 +1,6 @@
 # Smart-Cash-Diary - Budget Tracker Application
 
-A Budget Tracker Applciation which can track and manage your daily expenses using Javascript, ReactJs, Material UI, Local Storage. 
+A ** Budget Tracker ** Applciation which can track and manage your daily expenses using Javascript, ReactJs, Material UI, Local Storage. 
 
 ## Features:
 
